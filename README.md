@@ -1,4 +1,11 @@
-# Литература:
+## Видео
+
+- [ML: Что такое машинное обучение и как это работает?](https://www.youtube.com/watch?v=3ZZOd4_m1Xc)
+
+- [ML: python и его библиотеки для работы с машинным обучением](https://www.youtube.com/watch?v=1S-2JnJFyHA) 
+ 
+
+## Литература:
 
 - [Примеры из книги Криса Элбона "Машинное обучение с использованием Python. Книга рецептов"](https://github.com/capissimo/Machine-Learning-with-Python-Cookbook)
 
