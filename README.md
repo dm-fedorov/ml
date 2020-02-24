@@ -5,6 +5,9 @@
 - [ML: python и его библиотеки для работы с машинным обучением](https://www.youtube.com/watch?v=1S-2JnJFyHA) 
  
 
+- [Александр Горохов - Питон в бигдате](https://www.youtube.com/watch?v=bj5w1a3xW3s)
+
+
 ## Литература:
 
 - [Примеры из книги Криса Элбона "Машинное обучение с использованием Python. Книга рецептов"](https://github.com/capissimo/Machine-Learning-with-Python-Cookbook)
