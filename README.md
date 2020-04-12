@@ -24,6 +24,8 @@
 
 - [мануал](https://tproger.ru/translations/machine-learning-beginners-guide/), [GIT Titanic-Machine-Learning](https://github.com/shantnu/Titanic-Machine-Learning)
 
+- Сайт Криса Албона [Notes On Using Data Science & Machine Learning To Fight For Something That Matters](https://chrisalbon.com/)
+
 ## Данные для анализа
 
 35 Мб: [ссылка](https://yadi.sk/d/y58yJy-khQo7i) и еще [ссылка](https://yadi.sk/i/G4ljY9BbgxxXQ)
