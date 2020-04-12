@@ -4,9 +4,7 @@
 
 - [ML: python и его библиотеки для работы с машинным обучением](https://www.youtube.com/watch?v=1S-2JnJFyHA) 
  
-
 - [Александр Горохов - Питон в бигдате](https://www.youtube.com/watch?v=bj5w1a3xW3s)
-
 
 ## Литература:
 
@@ -26,3 +24,6 @@
 
 - [мануал](https://tproger.ru/translations/machine-learning-beginners-guide/), [GIT Titanic-Machine-Learning](https://github.com/shantnu/Titanic-Machine-Learning)
 
+## Данные для анализа
+
+35 Мб: [ссылка](https://yadi.sk/d/y58yJy-khQo7i)
