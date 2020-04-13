@@ -12,7 +12,7 @@
 
  - [данные для анализа](https://github.com/hunters-forge/mordor/)
 
- - 
+ - [про SIEM](https://habr.com/ru/company/technoserv/blog/491384/)
 
 
 
